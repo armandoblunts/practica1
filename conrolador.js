@@ -8,3 +8,9 @@
 //(cantidad de productos)
 //pagar impuesto de entrada al pais (lo digita aduanas)
 
+
+let boton=document.getElementById("boton");
+console.log(boton);
+
+
+
